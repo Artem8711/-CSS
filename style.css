@@ -13,7 +13,7 @@ body {
 
 header {
    background-color: DimGrey;
-   padding: 15px 20px;
+   padding: 15px 15px;
    border-radius: 2px;
    width: 28%;
    margin: 0 auto;
@@ -23,9 +23,11 @@ header {
 nav a {
    display: inline-block;
    margin-right: 15px;
+   padding: 5px 5px;
    color: whitesmoke;
    text-decoration: none;
    font-weight: bold;
+   border-radius: 2px;
 }
 
 main {
